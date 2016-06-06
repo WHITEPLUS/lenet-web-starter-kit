@@ -1,0 +1,14 @@
+#app {
+  section {
+    border: solid 1px #000;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    h1 {
+      font-size: 140%;
+      color: red;
+    }
+    p, ul {
+      margin-bottom: 1.5em;
+    }
+  }
+}
